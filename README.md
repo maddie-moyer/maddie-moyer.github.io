@@ -1,2 +1,2 @@
 # maddie-moyer.github.io
-Example GitHub.io portfolio website
+Maddie Moyer GitHub.io portfolio website
