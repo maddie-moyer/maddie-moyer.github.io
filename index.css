@@ -38,6 +38,7 @@
     --pink: #ff3258;
     --white: #f0e9f2;
     --white-1: #e5e5e6da;
+    --blue: #ADD8E6
 
 
     --container-max-width: 1180px;
@@ -72,7 +73,7 @@ body {
     font-weight: 400;
     color: var(--white-1);
     line-height: var(--line-height-normal);
-    background: var(--white);
+    background: var(--blue);
     overflow-x: hidden;
 }
 
