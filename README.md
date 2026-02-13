@@ -1,9 +1,6 @@
 # maddie-moyer.github.io
-About Me:
 
-My name is Maddie Moyer and I am a senior at the 
-University of Wisconsin - Eau Claire. I am majoring in 
-Applied Physics and Applied Mathematics and Statistics, 
-and I am earning a Computer Science certificate as well. 
-I will be graduating this spring (May 2026) and I am 
-currently looking for employment!
+I used a template to create my portfolio!! The main file is index.html, and the index.css file 
+has the info about the alignment, buttons, etc. for my portfolio page. If you want to find the
+template, click the white button that says "Star" at the very bottom of my portfolio page. 
+I just copied over the files into my own github repository and then edited them to my liking. 
